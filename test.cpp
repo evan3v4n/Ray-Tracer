@@ -17,6 +17,12 @@ int main() {
             auto r = double(i) / (image_width - 1);
             auto g = double(j) / (image_height - 1);
             auto b = 0;
+
+            int ir = static_cast<int>( 255.99 * r);
+            int ig = static_cast<int>( 255.99 * g);
+            int ib = static_cast<int>( 255.99 * b);
+
+            std::cout << ir << " " << ig << " " << ib << "\n";
         }
     }
 }
