@@ -18,11 +18,11 @@ class vec3 {
 
         // x,y,z represent e[0], e[1], e[2], respectively
         double x() const { return e[0]; }
-        double y() const {return e[1]; }
+        double y() const { return e[1]; }
         double z() const { return e[2]; }
 
         // Overload operators. Unary - (makes contents negative), Array indexing (const), Array indexing (non-const) (allows e[i] to be changed)
-        vec3 operator -() const { return vec3(-e[0], -e[1], -e[2]);}
+        vec3 operator -() const { return vec3(-e[0], -e[1], -e[2]); }
         double operator()(int i) const { return e[i]; }
         double& operator()(int i) { return e[i]; }
 
