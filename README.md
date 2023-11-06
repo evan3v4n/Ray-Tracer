@@ -1,4 +1,4 @@
-# Ray Tracing in One Weekend - Book One
+# Ray Tracer
 
 ## Overview
 This repository contains the source code and accompanying explanation for the first book in the Ray Tracing in One Weekend series. The book introduces the fundamental concepts of ray tracing, an image rendering technique that simulates the physical behavior of light to achieve photo-realistic graphics.
