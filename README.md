@@ -26,6 +26,6 @@ To run the ray tracer:
 I would like to extend my heartfelt thanks to Peter Shirley for authoring the "Ray Tracing in One Weekend" book. This work has been instrumental in guiding me through the intricate process of learning and implementing ray tracing algorithms. Peter's clear explanations and step-by-step approach have made complex concepts accessible and engaging. His contributions to the field of computer graphics are truly appreciated, and this project stands as a testament to the educational value of his work.
 
 ## License
-This project is licensed under [GNU]([https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt)).
+This project is licensed under [GNU](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt).
 
 For detailed information, please refer to the [book](https://raytracing.github.io/books/RayTracingInOneWeekend.html).
