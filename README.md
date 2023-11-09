@@ -8,7 +8,7 @@
 
 - `src/`: Contains all the source code written in C++.
 - `images/`: Output directory for rendered images in PPM format.
-- `docs/`: Documentation and additional notes on the project.
+- `images(jpg)/`: Images in .jpg format.
 
 ## Key Concepts
 
