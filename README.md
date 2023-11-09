@@ -1,5 +1,8 @@
 # Ray Tracer
 
+## Image Files
+Image files are in Portable Pixmap (.ppm) form and will need to be downloaded to be opened / used directly. They can also be viewed from the images(jpg) folder
+
 ## Overview
 This repository contains the source code and accompanying explanation for the first book in the Ray Tracing in One Weekend series. The book introduces the fundamental concepts of ray tracing, an image rendering technique that simulates the physical behavior of light to achieve photo-realistic graphics.
 
