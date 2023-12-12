@@ -41,7 +41,7 @@ On Mac / Linux
 ./RayTracer > image.ppm
 
 On Windows
-build\Release\inOneWeekend.exe > image.ppm
+build\Release\RayTracer.exe > image.ppm
 ```
 
 ##Output
